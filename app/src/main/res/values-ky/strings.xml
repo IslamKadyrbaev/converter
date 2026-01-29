@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Валюта конвертери</string>
+    <string name="amount">Суммасы</string>
+    <string name="from">-дан</string>
+    <string name="to">-га</string>
+    <string name="convert">Которуу</string>
+    <string name="result_placeholder">--.--</string>
+    <string name="currency_usd">АКШ доллары</string>
+    <string name="currency_eur">Евро</string>
+    <string name="currency_kgs">Кыргыз сому</string>
+    <string name="currency_rub">Орус рублу</string>
+</resources>

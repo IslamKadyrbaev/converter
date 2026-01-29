@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="amount">Amount</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="result_placeholder">--.--</string>
+    <string name="currency_usd">US Dollar</string>
+    <string name="currency_eur">Euro</string>
+    <string name="currency_kgs">Kyrgyzstani Som</string>
+    <string name="currency_rub">Russian Ruble</string>
+
+    <!-- Navigation -->
+    <string name="nav_converter">Converter</string>
+    <string name="nav_live_rate">Live USD/KGS</string>
+    <string name="nav_admin">Admin</string>
+
+    <!-- Live rate -->
+    <string name="live_rate_title">Real exchange rate</string>
+    <string name="live_rate_subtitle">USD ⇄ KGS from the internet</string>
+    <string name="live_rate_refresh">Refresh</string>
+    <string name="live_rate_last_updated">Last updated:</string>
+    <string name="live_rate_loading">Loading…</string>
+    <string name="live_rate_error">Could not load live rate</string>
+
+    <!-- Admin -->
+    <string name="admin_title">Admin panel</string>
+    <string name="admin_password">Password</string>
+    <string name="admin_login">Login</string>
+    <string name="admin_logout">Logout</string>
+    <string name="admin_wrong_password">Wrong password</string>
+    <string name="admin_use_live_rate">Use live USD→KGS rate in converter</string>
+    <string name="admin_offline_rates">Offline rates (per 1 USD)</string>
+    <string name="admin_rate_eur">EUR per USD</string>
+    <string name="admin_rate_rub">RUB per USD</string>
+    <string name="admin_rate_kgs">KGS per USD</string>
+    <string name="admin_save">Save</string>
+    <string name="admin_saved">Saved</string>
+    <string name="admin_change_password">Change admin password</string>
+    <string name="admin_new_password">New password</string>
+    <string name="admin_confirm_password">Confirm password</string>
+    <string name="admin_password_mismatch">Passwords do not match</string>
+</resources>

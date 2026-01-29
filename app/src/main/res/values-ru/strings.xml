@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="amount">Сумма</string>
+    <string name="from">Из</string>
+    <string name="to">В</string>
+    <string name="convert">Конвертировать</string>
+    <string name="result_placeholder">--.--</string>
+    <string name="currency_usd">Доллар США</string>
+    <string name="currency_eur">Евро</string>
+    <string name="currency_kgs">Кыргызский сом</string>
+    <string name="currency_rub">Российский рубль</string>
+</resources>
