@@ -22,11 +22,11 @@ jobs:
         uses: android-actions/setup-android@v3
 
       - name: Make gradlew executable
-        run: chmod +x ./Converter/gradlew
+        run: chmod +x ./gradlew
 
       - name: Build Debug APK
         working-directory: ./Converter
-        run: ./gradlew :app:assembleDebug
+        run: ./gradlew assembleDebug
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
